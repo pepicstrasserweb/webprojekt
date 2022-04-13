@@ -20,5 +20,5 @@ Alati i okruženje
   Server: Node
   Baza: Firebase
   
-  
+  LV2
   
