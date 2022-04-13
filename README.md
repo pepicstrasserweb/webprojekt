@@ -1,20 +1,22 @@
 LV1
 
-Planer
+F1 Champion
 
-Web aplikacija se koristi za organizaciju vremena i planiranje budućih događaja.
+Web aplikacija se koristi za glasanje za budućeg pobjednika i najbolji tim Formule 1 za tekuću sezonu.
 
   Registracija, prijava i odjava korisnika.
-  Kreiranje i brisanje obveza.
-  Uređivanje postojećih obveza.
-  Pregled svih obveza.
-  Prikaz pie chart-a sa omjerom slobodnog i zauzetog vremena za pojedini dan.
-  Mijenjanje statusa obveze.
+  Pregled svih vozača.
+  Pregled svih timova.
+  Podaci o vozaču.
+  Podaci o timovima.
+  Mogućnost glasanja za omiljenog vozača.
+  Mogućnost glasanja za omiljen tim.
+  Prikaz rezultata glasanja.
   
 Alati i okruženje
 
   Editor: Visual Studio Code
-  Framework: Bootstrap
+  Framework: React.js
   Server: Node
   Baza: Firebase
   
