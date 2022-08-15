@@ -1,0 +1,39 @@
+.driver-card{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    flex-wrap:wrap;
+    align-items:center;
+    border-radius: 15px;
+}
+
+.driver-card__image {
+    margin-right: 1rem;
+    width: 9rem;
+    height: 9rem; 
+    background: linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(255,255,255,1) 100%);  
+
+  }
+
+.driver-card__info {
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+  }
+
+.driver-card__actions {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    align-items:center;
+  }
+
+
+.driver-card__flag {
+    width: 3rem;
+    height: 2rem; 
+    background: linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(255,255,255,1) 100%);  
+
+  }
